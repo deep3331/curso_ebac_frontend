@@ -1,1 +1,0 @@
-Olá, a nova branch está criada, juntamente com arquivo.txt
